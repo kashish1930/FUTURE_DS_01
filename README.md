@@ -15,7 +15,7 @@ Key Findings and Insights
 
 - The majority of sales come from male customers.
 - The most common device used for transactions is desktop.
-- The average session duration is approximately 4.99 minutes.
+  
 
 Dashboard Features and Usage
 
