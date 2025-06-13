@@ -1,5 +1,5 @@
 # FUTURE_DS_01
-ntroduction
+Introduction
 
 This dashboard provides insights into e-commerce customer purchase and interaction data, helping businesses understand their customers' behavior and preferences.
 
